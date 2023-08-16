@@ -1,6 +1,6 @@
 # Custom Discord Bot
 
-A basic discord bot that can play music with prefix music commands and can be used as a platform to access ChatGPT on discord.
+A basic discord bot that can play music with prefix music commands and can be used as a platform to access ChatGPT on Discord.
 
 
 
