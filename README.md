@@ -4,6 +4,7 @@ A basic discord bot that can play music with prefix music commands and can be us
 
 
 
+
 ## API Reference
 
 #### For ChatGpt
