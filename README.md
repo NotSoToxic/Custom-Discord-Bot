@@ -14,7 +14,7 @@ https://beta.openai.com/account/api-keys
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key | 
+| `api_key` | `string` | **Required**. Your API key |
 
 #### For Music Commands
 The Music Coammand code runs solely on autode so the api's used are linked using autocode.
