@@ -1,0 +1,13 @@
+{
+  "name": "notsotoxic/gpt-integration",
+  "timeout": 30000,
+  "connector": false,
+  "events": {
+    "functions/events/autocode/self/deployed.js": {
+      "name": "autocode.self.deployed"
+    },
+    "functions/events/discord/bot_mention.js": {
+      "name": "discord.bot_mention"
+    }
+  }
+}
